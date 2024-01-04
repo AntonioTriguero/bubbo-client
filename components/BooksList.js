@@ -20,7 +20,7 @@ const EventList = () => {
   }, [updated]);
 
   const fetchData = () => {
-    fetch('https://server-biblioteca-bubbo-vanesascode.onrender.com/')
+    fetch('https://server-biblioteca-bubbo-vanesascode.onrender.com/books')
       .then(response => response.json())
       .then(json => {
         setBooks(json);
