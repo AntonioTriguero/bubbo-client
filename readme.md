@@ -29,12 +29,16 @@ En la barra superior, aparecen los nombres de las pantallas, un icono de la empr
 - npx expo install react-native-screens react-native-safe-area-context
 - npm install @react-navigation/stack
 - npx expo install react-native-gesture-handler
-- npx expo install react-native-gesture-handler react-native-reanimated (and import import 'react-native-gesture-handler';)
+- npx expo install react-native-gesture-handler react-native-reanimated
 - npm i @expo/vector-icons
 
 ### Aplicación móvil para el desarrollo:
 
 - expo go
+
+### Móvil para el desarrollo: 
+
+- Android - POCO M3 Pro 5G
 
 ### Run command:
 
